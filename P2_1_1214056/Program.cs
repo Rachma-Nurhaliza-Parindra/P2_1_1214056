@@ -10,7 +10,7 @@ namespace P2_1_1214056
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My Kalkulator");
+            Console.WriteLine("Kalkulator Rachma");
             Console.Write("Input Nilai Pertama: ");
             var angka1 = int.Parse(Console.ReadLine());
             Console.Write("Input Nilai Kedua: ");
